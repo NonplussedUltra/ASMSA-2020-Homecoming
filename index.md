@@ -39,12 +39,15 @@ And we have space to remember what ASMSA was like when we were there:
   * A living photo gallery to compile the ASMSA photos people share over the course of the weekend
   * A memorial space for people to pay their respects to our friend and mentor Dr. Jon Ruehle, recently departed on October 17th.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Thanks to all of our alumni, faculty, and staff attendees for being present at this event!
+Special recognition due to Deana Hughes '10 and Jesse Thomason '09 for their individual contributions.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NonplussedUltra/ASMSA-2020-Homecoming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Hope to see you at Homecoming!
+### Sincerely,
+### The AAFA Executive Board
+ * Seth Allen '09
+ * Amy (Anderson) Stvartak '11
+ * NaTasha (Martin) St. Martin '97
+ * Amber (Phillips) Jackson '99
+ * Stephanie (Shearman) Wyatt '00
+ * Anthony Stvartak '10
