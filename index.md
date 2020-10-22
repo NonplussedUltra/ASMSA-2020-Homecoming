@@ -7,6 +7,10 @@ If you want to jump right in and see your classmates, [click here to go to the D
 
 If you've never used Discord before, start by [clicking here for a setup guide.](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 
+### Disclaimer
+
+AAFA and ASMSA take no responsibility for content posted to the Discord by event attendees. Please exercise prudence and etiquette in using this forum. Bans are up to the discretion of the AAFA executive team moderators.
+
 ### Schedule
 
 The Discord server will remain open from Friday, October 23rd through Sunday, October 25th, all the time, so if you don't see anybody there at first, leave a message so your classmates can find you!
