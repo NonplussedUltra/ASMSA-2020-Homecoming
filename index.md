@@ -3,7 +3,7 @@
 
 Here you can find a schedule, chatroom directory, and Discord How-To so you know what this event is all about, and how to participate.
 
-If you want to jump right in and see your classmates, [click here to go to the Discord!](https://discord.gg/hQth8HA)
+If you want to jump right in and see your classmates, [click here to go to the Discord!](https://discord.gg/wBH522g)
 
 If you've never used Discord before, start by [clicking here for a setup guide.](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 
