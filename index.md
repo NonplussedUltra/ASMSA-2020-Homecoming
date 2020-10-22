@@ -14,8 +14,8 @@ The Discord server will remain open from Friday, October 23rd through Sunday, Oc
 ### Reunions and Other Channels
 
 In addition to the General channel for all alumni, there are:
-  * Dedicated chat channel for 1999-2001's 20-year reunion
-  * Dedicated chat channel for 2009-2011's 10-year reunion
+  * Dedicated chat channel for 2000's 20-year reunion (and friends)
+  * Dedicated chat channel for 2010's 10-year reunion (and friends)
   * Channels for 5-year blocks of classes from 1995 to the present
   * Breakout rooms for smaller conversations
 
@@ -42,9 +42,9 @@ And we have space to remember what ASMSA was like when we were there:
 Thanks to all of our alumni, faculty, and staff attendees for being present at this event!
 Special recognition due to Deana Hughes '10 and Jesse Thomason '09 for their individual contributions.
 
-### Hope to see you at Homecoming!
-### Sincerely,
-### The AAFA Executive Board
+Hope to see you at Homecoming!
+Sincerely,
+The AAFA Executive Board
  * Seth Allen '09
  * Amy (Anderson) Stvartak '11
  * NaTasha (Martin) St. Martin '97
