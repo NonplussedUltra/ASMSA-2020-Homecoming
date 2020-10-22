@@ -42,8 +42,8 @@ And we have space to remember what ASMSA was like when we were there:
 Thanks to all of our alumni, faculty, and staff attendees for being present at this event!
 Special recognition due to Deana Hughes '10 and Jesse Thomason '09 for their individual contributions.
 
-Hope to see you at Homecoming!
-Sincerely,
+Hope to see you at Homecoming! <br />
+Sincerely, <br />
 The AAFA Executive Board
  * Seth Allen '09
  * Amy (Anderson) Stvartak '11
