@@ -1,30 +1,43 @@
-## Welcome to GitHub Pages
+# Welcome to the ASMSA 2020 Virtual Homecoming and Reunions hub page!
+## Hosted by the Association for Alumni and Friends of ASMSA (AAFA)
 
-You can use the [editor on GitHub](https://github.com/NonplussedUltra/ASMSA-2020-Homecoming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find a schedule, chatroom directory, and Discord How-To so you know what this event is all about, and how to participate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want to jump right in and see your classmates, [click here to go to the Discord!](https://discord.gg/hQth8HA)
 
-### Markdown
+If you've never used Discord before, start by [clicking here for a setup guide.](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Schedule
 
-```markdown
-Syntax highlighted code block
+The Discord server will remain open from Friday, October 23rd through Sunday, October 25th, all the time, so if you don't see anybody there at first, leave a message so your classmates can find you!
 
-# Header 1
-## Header 2
-### Header 3
+### Reunions and Other Channels
 
-- Bulleted
-- List
+In addition to the General channel for all alumni, there are:
+  * Dedicated chat channel for 1999-2001's 20-year reunion
+  * Dedicated chat channel for 2009-2011's 10-year reunion
+  * Channels for 5-year blocks of classes from 1995 to the present
+  * Breakout rooms for smaller conversations
 
-1. Numbered
-2. List
+### Faculty Appearances
 
-**Bold** and _Italic_ and `Code` text
+Faculty and staff are welcome on the server any time, but a few of them have agreed to be available at specific times on Zoom so you know when to catch them! 
+  * Dr. Patrycja Krakowiak (Biology) - Friday at 8pm
+  * Mr. Daniel Moix (Computer Science) - Saturday at 4pm
+  * Dr. Marizza Bailey (Math) - Saturday at 5pm
+  * Mr. James Katowich (English) - Sunday at 6pm
+  
+Visit the #faculty-chat channel on the Discord to access their individual Zoom meetings.
 
-[Link](url) and ![Image](src)
-```
+### Other Homecoming Features
+
+In a normal year, we'd just invite everyone to the ASMSA campus to see what's new! But in lieu of that, we've assembled a few ways for alumni to see what has changed since their time at ASMSA:
+  * A presention by Director Corey Alderdice about the Strategic Plan for the future of ASMSA
+  * A campus tour presented by Deana Hughes '10 and current students
+
+And we have space to remember what ASMSA was like when we were there:
+  * A living photo gallery to compile the ASMSA photos people share over the course of the weekend
+  * A memorial space for people to pay their respects to our friend and mentor Dr. Jon Ruehle, recently departed on October 17th.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
