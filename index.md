@@ -1,6 +1,6 @@
 # Welcome to the ASMSA 2020 Virtual Homecoming and Reunions hub page!
 ## Hosted by the Association for Alumni and Friends of ASMSA (AAFA)
-![AAFA Logo](https://github.com/NonplussedUltra/homecoming-images/blob/main/AAFA_Logo.png) 
+![AAFA Logo](http://github.com/NonplussedUltra/homecoming-images/blob/main/AAFA_Logo.png) 
 
 Here you can find a schedule, chatroom directory, and Discord How-To so you know what this event is all about, and how to participate.
 
