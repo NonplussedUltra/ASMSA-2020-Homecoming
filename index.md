@@ -39,9 +39,11 @@ In a normal year, we'd just invite everyone to the ASMSA campus to see what's ne
   * A presention by Director Corey Alderdice about the Strategic Plan for the future of ASMSA
   * A campus tour presented by Deana Hughes '10 and current students
 
-And we have space to remember what ASMSA was like when we were there:
+We have space to remember what ASMSA was like when we were there:
   * A living photo gallery to compile the ASMSA photos people share over the course of the weekend
   * A memorial space for people to pay their respects to our friend and mentor Dr. Jon Ruehle, recently departed on October 17th.
+  
+And we have a map of alumni that you can add to and watch the extent of the ASMSA network grow!
 
 Thanks to all of our alumni, faculty, and staff attendees for being present at this event!
 Special recognition due to Deana Hughes '10 and Jesse Thomason '09 for their individual contributions.
