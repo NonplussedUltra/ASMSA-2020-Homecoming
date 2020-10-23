@@ -26,10 +26,10 @@ In addition to the General channel for all alumni, there are:
 ### Faculty Appearances
 
 Faculty and staff are welcome on the server any time, but a few of them have agreed to be available at specific times on Zoom so you know when to catch them! 
-  * Dr. Patrycja Krakowiak (Biology) - Friday at 8pm
-  * Mr. Daniel Moix (Computer Science) - Saturday at 4pm
-  * Dr. Marizza Bailey (Math) - Saturday at 5pm
-  * Mr. James Katowich (English) - Sunday at 6pm
+  * Patrycja Krakowiak (Biology) - Friday at 8pm
+  * Daniel Moix (Computer Science) - Saturday at 4pm
+  * Marizza Bailey (Math) - Saturday at 5pm
+  * James Katowich (English) - Sunday at 6pm
   
 Visit the #faculty-chat channel on the Discord to access their individual Zoom meetings.
 
